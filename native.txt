@@ -1,1 +1,2 @@
 This file is native to Notepad.
+This line was added after the file was staged.
